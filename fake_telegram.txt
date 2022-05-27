@@ -37,8 +37,9 @@ telegramarg[.org
 tgcn[.cash
 telegramprocn[.com
 happy731[.com
-
-
+telegrzm[.com
+telegmm[.com
+telegrfm[.com
 
 
 
@@ -90,12 +91,13 @@ https://downs[.telcp213.com/Telegram.apk
 https://telergems[.com/upload/setup.zip
 https://telegramxz[.oss-cn-qingdao.aliyuncs.com/Telegram%20%E4%B8%AD%E6%96%87%E7%89%88%E5%AE%89%E8%A3%85%E5%8C%85.msi
 https://x64[.sgp1.digitaloceanspaces.com/tsetup.zip
-
+https://wwv[.telegrfm.com/Telegram-x64.com
 
 
 
 MD5s:
 
+7ad39481d31b6f6ff43a4db95ef83c5f
 5f8ddd6c1dc955670f03b8e479c4952b
 5948b40403b1a04b6f8b8590843400b9
 411af622130e4630286dcb7f7df85f31
