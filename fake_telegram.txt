@@ -44,6 +44,7 @@ koldidi[.com
 fllj[.xyz
 telegramrs[.com
 chat-tg[.xyz
+www-telegram[.com
 
 
 
@@ -104,7 +105,7 @@ https://down[.sgp1.digitaloceanspaces.com/tsetup.zip
 http://download1[.telegramrs.com:36088/Telegram%20%E4%B8%AD%E6%96%87%E7%89%88%E5%AE%89%E8%A3%85%E5%8C%85.msi
 https://d2k0j19zclr97o[.cloudfront.net/tsetup-x64.3.3.0.zip
 https://telergann[.com/dl/Telegram/tsetup-x64.3.6.1.rar
-
+https://tg-download[.b-cdn.net/telegram.7z
 
 
 MD5s:
