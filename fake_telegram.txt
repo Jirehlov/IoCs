@@ -45,6 +45,7 @@ fllj[.xyz
 telegramrs[.com
 chat-tg[.xyz
 www-telegram[.com
+telegralm[.com
 
 
 
@@ -106,6 +107,7 @@ http://download1[.telegramrs.com:36088/Telegram%20%E4%B8%AD%E6%96%87%E7%89%88%E5
 https://d2k0j19zclr97o[.cloudfront.net/tsetup-x64.3.3.0.zip
 https://telergann[.com/dl/Telegram/tsetup-x64.3.6.1.rar
 https://tg-download[.b-cdn.net/telegram.7z
+https://telegralm[.com/telegram%E6%B1%89%E5%8C%96.rar
 
 
 MD5s:
@@ -165,3 +167,4 @@ debc95ccddb521ac4955f4b5a4ee60ce
 12047ae11cb32d0bdb92a5fb0c5eca4c
 365483950b6e2a2724032fd1dda531e5
 15e3af4e2f5b85d1600624ecfcce7ec7
+7bd9d2f66eabb01246970b9d46afdb8d
