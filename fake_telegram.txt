@@ -46,6 +46,7 @@ telegramrs[.com
 chat-tg[.xyz
 www-telegram[.com
 telegralm[.com
+z-telegram[.app
 
 
 
@@ -108,7 +109,7 @@ https://d2k0j19zclr97o[.cloudfront.net/tsetup-x64.3.3.0.zip
 https://telergann[.com/dl/Telegram/tsetup-x64.3.6.1.rar
 https://tg-download[.b-cdn.net/telegram.7z
 https://telegralm[.com/telegram%E6%B1%89%E5%8C%96.rar
-
+https://downs[.telcp213.com/Telesetup.msi
 
 MD5s:
 
