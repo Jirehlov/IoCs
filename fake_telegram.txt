@@ -52,6 +52,7 @@ telegrann[.org
 tebiehao[.xyz
 telegron[.com
 telegrom[.xyz
+telgrame[.com
 
 
 
@@ -121,6 +122,7 @@ https://download[.telegramrs.com/Telegram%20%E4%B8%AD%E6%96%87%E7%89%88%E5%AE%89
 https://telegrabw[.com/tsetup.zip
 https://tebiehao[.xyz/dl/tsetup-x64.3.7.395.rar
 https://www[.telegrom.xyz/tsetup-x64.3.5.1.exe
+https://www[.telgrame.com/telegcm.com
 
 MD5s:
 
