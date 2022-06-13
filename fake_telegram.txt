@@ -53,7 +53,11 @@ tebiehao[.xyz
 telegron[.com
 telegrom[.xyz
 telgrame[.com
+teiigram[.com
 
+
+IPs:
+118[.99.36.7:280
 
 
 
@@ -123,6 +127,10 @@ https://telegrabw[.com/tsetup.zip
 https://tebiehao[.xyz/dl/tsetup-x64.3.7.395.rar
 https://www[.telegrom.xyz/tsetup-x64.3.5.1.exe
 https://www[.telgrame.com/telegcm.com
+https://teiigram[.com/setup-3.7.3.msi
+http://118[.99.36.7:280/8z.exe
+http://118[.99.36.7:280/x.zip?=0
+
 
 MD5s:
 
