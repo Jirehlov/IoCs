@@ -130,6 +130,7 @@ https://www[.telgrame.com/telegcm.com
 https://teiigram[.com/setup-3.7.3.msi
 http://118[.99.36.7:280/8z.exe
 http://118[.99.36.7:280/x.zip?=0
+https://downs[.sgp1.digitaloceanspaces.com/tsetupx64.zip
 
 
 MD5s:
@@ -190,3 +191,5 @@ debc95ccddb521ac4955f4b5a4ee60ce
 365483950b6e2a2724032fd1dda531e5
 15e3af4e2f5b85d1600624ecfcce7ec7
 7bd9d2f66eabb01246970b9d46afdb8d
+36d15d03327396ef8dd4b652164d4f23
+ca3e48daeec2a7e2101d7df0b66c46c4
