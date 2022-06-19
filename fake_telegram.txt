@@ -55,6 +55,7 @@ telegrom[.xyz
 telgrame[.com
 teiigram[.com
 telegrem[.org
+telegrcn[.co
 
 
 IPs:
@@ -133,6 +134,7 @@ http://118[.99.36.7:280/8z.exe
 http://118[.99.36.7:280/x.zip?=0
 https://downs[.sgp1.digitaloceanspaces.com/tsetupx64.zip
 https://www[.telegrem.org/tsetup.3.7.4.zip
+https://yt3[.sgp1.digitaloceanspaces.com/tsetupx64.zip
 
 
 MD5s:
