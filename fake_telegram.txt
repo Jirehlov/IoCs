@@ -56,6 +56,7 @@ telgrame[.com
 teiigram[.com
 telegrem[.org
 telegrcn[.co
+telegrat[.com
 
 
 IPs:
@@ -83,6 +84,7 @@ http://orhe-telegarm[.com:88/tsetup-x64.msi
 https://www[.telegacn.com/telegcm.exe
 https://tgtelegram[.com/telex064.zip
 https://telegarn[.co/tsetup-x64.3.7.2.exe
+https://telegarn[.co/tsetup-x64.3.7.3.exe
 https://telergan[.com/x64/tsetup-x64.3.5.1.exe
 https://www[.telegtcn.com/Tele_cn.zip
 https://telegrami[.oss-cn-hongkong.aliyuncs.com/tsetup-x64.com
