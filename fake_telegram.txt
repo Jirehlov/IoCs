@@ -57,6 +57,10 @@ teiigram[.com
 telegrem[.org
 telegrcn[.co
 telegrat[.com
+a-telegram[.app
+desktop-telegram[.org
+te1eagm[.top
+
 
 
 IPs:
@@ -138,6 +142,7 @@ https://downs[.sgp1.digitaloceanspaces.com/tsetupx64.zip
 https://www[.telegrem.org/tsetup.3.7.4.zip
 https://yt3[.sgp1.digitaloceanspaces.com/tsetupx64.zip
 https://zhcn[.sgp1.digitaloceanspaces.com/tsetupx64.zip
+https://te1eagm[.top/tsetup-x64.3.7.3.exe
 
 
 
@@ -212,3 +217,4 @@ cc17662725d70b65a60d14f387204c16
 7559145d3c9de7d8923a4db4ecd8f3a5
 ac7c3473cb8caf513d3f9687f2e3db8a
 ca362b9dd146d2ef17b1d2f25cb57597
+c69daee92d989c45b868300d75a1b2d7
