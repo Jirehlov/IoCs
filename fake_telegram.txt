@@ -143,7 +143,7 @@ https://www[.telegrem.org/tsetup.3.7.4.zip
 https://yt3[.sgp1.digitaloceanspaces.com/tsetupx64.zip
 https://zhcn[.sgp1.digitaloceanspaces.com/tsetupx64.zip
 https://te1eagm[.top/tsetup-x64.3.7.3.exe
-
+https://te1eagm[.top/TeleAndroid.apk
 
 
 MD5s:
@@ -218,3 +218,4 @@ cc17662725d70b65a60d14f387204c16
 ac7c3473cb8caf513d3f9687f2e3db8a
 ca362b9dd146d2ef17b1d2f25cb57597
 c69daee92d989c45b868300d75a1b2d7
+c23a00253a471030e627a56990ec5d1a
