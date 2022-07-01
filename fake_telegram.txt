@@ -68,6 +68,9 @@ telegram-china[.org
 kenfw[.com
 telegramos[.org
 k6gp[.com
+telegramim[.org
+telegtcn[.com
+telelgracn[.com
 
 
 IPs:
@@ -157,6 +160,8 @@ https://down[.telegaem.com/Tgdown.zip
 http://www[.telrgrgam.com/Telegram%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://tgchina[.oss-cn-hongkong.aliyuncs.com/app.apk
 https://ken[.com.kenfw.com/HaAcP
+https://download[.telegramim.org/Tele-cn.zip
+https://www[.telegtcn.com/Tele_cn.zip
 
 
 MD5s:
