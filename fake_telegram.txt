@@ -78,6 +78,7 @@ telegraelm[.com
 usac[.fit
 telegram-install[.com
 telegramb[.net
+telegrampcn[.com
 
 
 IPs:
@@ -177,6 +178,7 @@ https://telegram-install[.com/Software/Telegram.msi
 http://1[.telegramb.net:81/bak/3x.ocx
 http://1[.telegramb.net:81/bak/tmdvip.ocx
 http://1[.telegramb.net:81/bak/perl510.dll
+
 
 MD5s:
 
