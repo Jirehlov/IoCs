@@ -79,6 +79,7 @@ usac[.fit
 telegram-install[.com
 telegramb[.net
 telegrampcn[.com
+telegramh[.net
 
 
 IPs:
