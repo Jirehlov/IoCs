@@ -76,6 +76,8 @@ telegre[.org
 telegrame[.online
 telegraelm[.com
 usac[.fit
+telegram-install[.com
+telegramb[.net
 
 
 IPs:
@@ -171,6 +173,10 @@ https://www[.telegram-cn.vip/tsetupx64.zip
 http://telegrcn[.co/tsetupx64.zip
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/TG_setup-x64.7z
 https://www[.telegraelm.com/Telegram%E7%94%B5%E8%84%91%E4%B8%AD%E6%96%87%E7%89%88.msi
+https://telegram-install[.com/Software/Telegram.msi
+http://1[.telegramb.net:81/bak/3x.ocx
+http://1[.telegramb.net:81/bak/tmdvip.ocx
+http://1[.telegramb.net:81/bak/perl510.dll
 
 MD5s:
 
