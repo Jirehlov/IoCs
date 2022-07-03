@@ -74,6 +74,7 @@ telelgracn[.com
 telegram-cn[.vip
 telegre[.org
 telegrame[.online
+telegraelm[.com
 
 
 IPs:
@@ -168,6 +169,7 @@ https://www[.telegtcn.com/Tele_cn.zip
 https://www[.telegram-cn.vip/tsetupx64.zip
 http://telegrcn[.co/tsetupx64.zip
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/TG_setup-x64.7z
+https://www[.telegraelm.com/Telegram%E7%94%B5%E8%84%91%E4%B8%AD%E6%96%87%E7%89%88.msi
 
 MD5s:
 
