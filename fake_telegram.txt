@@ -187,6 +187,7 @@ https://www[.teleglamg.com/download/Telegram%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://www[.telegiramx.com/download/Telegram%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/Windows-x64.7z
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/%E4%B8%AD%E6%96%87%E7%89%88%E7%94%B5%E6%8A%A5.exe
+https://sin1[.contabostorage.com/8228849c45e24bdcbe1be0130ad33d92:down/tsetupx64.zip
 
 
 MD5s:
@@ -264,3 +265,4 @@ c69daee92d989c45b868300d75a1b2d7
 c23a00253a471030e627a56990ec5d1a
 76b3b5d3c85d038ed1568be786886bc4
 30d28ee2d8b50831ac7ccaae1c8daede
+7637cfa825e8436e97ee83263bc7fbf7
