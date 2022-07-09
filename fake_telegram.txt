@@ -84,6 +84,7 @@ telegrnam[.com
 teleglamg[.com
 telegiramx[.com
 telagrem[.com
+telegvam[.org
 
 
 IPs:
@@ -194,6 +195,7 @@ https://telagrem[.com/assets/download/Telegram%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/Setup.exe
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/%E7%94%B5%E6%8A%A5-%E4%B8%AD%E6%96%8764%E4%BD%8D.exe
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/Tele-%E4%B8%AD%E6%96%87.exe
+https://televgrm[.oss-cn-hongkong.aliyuncs.com/SeotpuTG.zip
 
 
 MD5s:
