@@ -88,6 +88,7 @@ telegvam[.org
 ttsjhoutai[.com
 telegrfm[.com
 teleghm[.com
+tdown[.sa.com
 
 
 IPs:
@@ -206,6 +207,7 @@ https://ttsjhoutai[.com/download/tsetup-x64.4.0.2.msi
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/%E7%94%B5%E6%8A%A5-%E4%B8%AD%E6%96%87%E7%89%88.7z
 https://wwv[.telegrfm.com/Telegram.com
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/%E7%94%B5%E6%8A%A5%E4%B8%AD%E6%96%87%E7%89%88.7z
+https://tdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg3/tsetupx64.zip
 
 MD5s:
 
@@ -283,6 +285,8 @@ c23a00253a471030e627a56990ec5d1a
 76b3b5d3c85d038ed1568be786886bc4
 30d28ee2d8b50831ac7ccaae1c8daede
 7637cfa825e8436e97ee83263bc7fbf7
+340ab64ac978ad9818f8fae8216a265f
+f269b986bcf3ad422198f90a5c8b86e9
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
