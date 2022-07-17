@@ -215,6 +215,7 @@ https://www[.teliglam.com/download/TG%E4%B8%AD%E6%96%87%E7%89%88%E6%9C%AC.msi
 https://wwaplde[.com/oSepd
 https://downs[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sin3/Telegram.apk
 https://downs[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg3/tsetupx64.zip
+https://ttdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:down/tsteupX64.zip
 
 MD5s:
 
@@ -294,6 +295,8 @@ c23a00253a471030e627a56990ec5d1a
 7637cfa825e8436e97ee83263bc7fbf7
 340ab64ac978ad9818f8fae8216a265f
 f269b986bcf3ad422198f90a5c8b86e9
+b7dd7e9db56ffa9b1acb0c2e30412b70
+e5f6bbedf0701e1fe1b6dc8d353ee56f
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
