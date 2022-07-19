@@ -94,6 +94,8 @@ t-telegram[.org
 wwaplde[.com
 downs[.sa.com
 ttdown[.sa.com
+teleccrm[.com
+x-tg[.xyz
 
 
 IPs:
@@ -219,6 +221,7 @@ https://downs[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sin3/Telegram.apk
 https://downs[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg3/tsetupx64.zip
 https://ttdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:down/tsteupX64.zip
 https://ttdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:downs/TGInstallerX64.zip
+https://x-tg[.xyz/tsetup-x64.3.7.3.zip
 
 MD5s:
 
