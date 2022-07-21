@@ -97,10 +97,13 @@ ttdown[.sa.com
 teleccrm[.com
 x-tg[.xyz
 ziduioxaqswe[.com
+co-telegram[.com
+telegroam[.com
 
 
 IPs:
 118[.99.36.7:280
+173[.249.186.27
 
 
 
@@ -225,6 +228,7 @@ https://ttdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:downs/TGInstallerX64.zip
 https://x-tg[.xyz/tsetup-x64.3.7.3.zip
 https://tgdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sin3/Telegram.apk
 https://tgdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:downs/TGInstallerX64.zip
+http://173[.249.186.27/Telegram%20%E4%B8%AD%E6%96%87%E7%89%88.msi
 
 MD5s:
 
