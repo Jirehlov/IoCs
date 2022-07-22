@@ -99,7 +99,7 @@ x-tg[.xyz
 ziduioxaqswe[.com
 co-telegram[.com
 telegroam[.com
-teleahscott.com
+teleahscott[.com
 
 
 IPs:
@@ -315,6 +315,7 @@ e5f6bbedf0701e1fe1b6dc8d353ee56f
 cc34a2b95ad567783bc2445a94650d93
 c346996c8a76eba372d3b0f9865dcb0a
 b3877e279fe552d3760dd821a9c8d923
+117fa1e8c95cc068a35fddd4ffc63686
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
