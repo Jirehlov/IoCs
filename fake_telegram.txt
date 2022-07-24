@@ -104,6 +104,8 @@ telgram[.cn
 telegrann[.org
 tgdown[.sa.com
 sgdown[.sa.com
+downtts[.sa.com
+telebrew[.com
 
 IPs:
 118[.99.36.7:280
@@ -237,6 +239,7 @@ https://telee[.oss-cn-hongkong.aliyuncs.com/windows-64%E4%B8%AD%E6%96%87.zip
 https://www[.telegrann.org/wp-content/uploads/2022/04/1649589934-a23a9437790a076.gz
 https://sgdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:downs/tstupx64.zip
 https://downtts[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg6/tstup_x64.zip
+https://tg-downs[.oss-cn-hongkong.aliyuncs.com/%E7%94%B5%E6%8A%A5%E4%B8%AD%E6%96%87x64.7z
 
 
 MD5s:
