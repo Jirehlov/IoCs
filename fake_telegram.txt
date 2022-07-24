@@ -236,6 +236,7 @@ http://173[.249.186.27/Telegram%20%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://telee[.oss-cn-hongkong.aliyuncs.com/windows-64%E4%B8%AD%E6%96%87.zip
 https://www[.telegrann.org/wp-content/uploads/2022/04/1649589934-a23a9437790a076.gz
 https://sgdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:downs/tstupx64.zip
+https://downtts[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg6/tstup_x64.zip
 
 
 MD5s:
@@ -324,6 +325,7 @@ b3877e279fe552d3760dd821a9c8d923
 117fa1e8c95cc068a35fddd4ffc63686
 68d714413e641e4156a455cd9a705e1b
 3fb370bde8460aa13e760cf13839f5a3
+eef2f537fddbb88dbc467565ca0b4fae
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
