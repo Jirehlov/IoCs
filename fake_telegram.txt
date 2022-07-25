@@ -107,6 +107,7 @@ sgdown[.sa.com
 downtts[.sa.com
 telebrew[.com
 teleg[.live
+tgcdn[.sa.com
 
 IPs:
 118[.99.36.7:280
@@ -241,6 +242,7 @@ https://www[.telegrann.org/wp-content/uploads/2022/04/1649589934-a23a9437790a076
 https://sgdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:downs/tstupx64.zip
 https://downtts[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg6/tstup_x64.zip
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/%E7%94%B5%E6%8A%A5%E4%B8%AD%E6%96%87x64.7z
+https://tgcdn[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sd9/tsetup-4.7.25x64.zip
 
 
 MD5s:
@@ -330,6 +332,7 @@ b3877e279fe552d3760dd821a9c8d923
 68d714413e641e4156a455cd9a705e1b
 3fb370bde8460aa13e760cf13839f5a3
 eef2f537fddbb88dbc467565ca0b4fae
+f40f3ecca2da5c04d6ced1e8c0707cfb
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
