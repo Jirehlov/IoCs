@@ -191,6 +191,7 @@ teleg80[.sa.com
 tdowns[.sa.com
 telegrab[.org
 telegrabs[.com
+telegramr[.co
 
 IPs:
 118[.99.36.7:280
@@ -327,6 +328,7 @@ https://downtts[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg6/tstup_x64.zip
 https://tg-downs[.oss-cn-hongkong.aliyuncs.com/%E7%94%B5%E6%8A%A5%E4%B8%AD%E6%96%87x64.7z
 https://tgcdn[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sd9/tsetup-4.7.25x64.zip
 https://tdowns[.sa.com/8228849c45e24bdcbe1be0130ad33d92:tdowns/TsteupX64.zip
+https://telegramr[.co/download/tsetup-x64.5.0.12.msi
 
 
 
@@ -418,6 +420,7 @@ b3877e279fe552d3760dd821a9c8d923
 3fb370bde8460aa13e760cf13839f5a3
 eef2f537fddbb88dbc467565ca0b4fae
 f40f3ecca2da5c04d6ced1e8c0707cfb
+89c0e5a4020bd6cdb8c47560976bc715
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
