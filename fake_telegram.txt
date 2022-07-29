@@ -331,7 +331,7 @@ https://tdowns[.sa.com/8228849c45e24bdcbe1be0130ad33d92:tdowns/TsteupX64.zip
 https://telegramr[.co/download/tsetup-x64.5.0.12.msi
 https://www[.telegmcn.org/tsetup.3.7.6.zip?t=628
 https://www[.telegmcn.org/tgcn8716.apk?v=1114
-
+https://sgdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:ad9/tsetupx64-4.7.17.zip
 
 MD5s:
 
@@ -422,6 +422,7 @@ b3877e279fe552d3760dd821a9c8d923
 eef2f537fddbb88dbc467565ca0b4fae
 f40f3ecca2da5c04d6ced1e8c0707cfb
 89c0e5a4020bd6cdb8c47560976bc715
+87ad4f4954a1e642405f9b70fefda0e4
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
