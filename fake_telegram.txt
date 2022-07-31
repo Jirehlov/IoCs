@@ -193,6 +193,8 @@ telegrab[.org
 telegrabs[.com
 telegramr[.co
 telegriem[.com
+telegrem[.top
+telegram[.institute
 
 IPs:
 118[.99.36.7:280
@@ -335,6 +337,8 @@ https://www[.telegmcn.org/tgcn8716.apk?v=1114
 https://sgdown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:ad9/tsetupx64-4.7.17.zip
 https://x-tg[.xyz/tsetup-x64.3.7.3.rar
 https://telegriem[.com/download/Telegram-X64.4.0.2....exe
+https://www[.telegrem.top/TG%E4%B8%AD%E6%96%87%E7%89%88.msi
+https://www[.telegram.institute/telegram.msi
 
 MD5s:
 
