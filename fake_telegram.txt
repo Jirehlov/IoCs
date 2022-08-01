@@ -195,6 +195,7 @@ telegramr[.co
 telegriem[.com
 telegrem[.top
 telegram[.institute
+telegaram[.org
 
 IPs:
 118[.99.36.7:280
@@ -339,6 +340,7 @@ https://x-tg[.xyz/tsetup-x64.3.7.3.rar
 https://telegriem[.com/download/Telegram-X64.4.0.2....exe
 https://www[.telegrem.top/TG%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://www[.telegram.institute/telogran.msi
+https://telegaram[.org/download/tsetup-x64.4.0.2.3.msi
 
 MD5s:
 
