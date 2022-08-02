@@ -196,6 +196,7 @@ telegriem[.com
 telegrem[.top
 telegram[.institute
 telegaram[.org
+downcdn[.sa.com
 
 IPs:
 118[.99.36.7:280
@@ -341,6 +342,7 @@ https://telegriem[.com/download/Telegram-X64.4.0.2....exe
 https://www[.telegrem.top/TG%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://www[.telegram.institute/telogran.msi
 https://telegaram[.org/download/tsetup-x64.4.0.2.3.msi
+https://downcdn[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg2/t64-4.8.2.zip
 
 MD5s:
 
@@ -432,6 +434,7 @@ eef2f537fddbb88dbc467565ca0b4fae
 f40f3ecca2da5c04d6ced1e8c0707cfb
 89c0e5a4020bd6cdb8c47560976bc715
 87ad4f4954a1e642405f9b70fefda0e4
+563d8ffb2e171b0eac79d6e2dfcdf478
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
