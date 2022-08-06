@@ -199,6 +199,8 @@ telegaram[.org
 downcdn[.sa.com
 teleigran[.com
 downtg[.sa.com
+tgsdowns[.sa.com
+
 
 IPs:
 118[.99.36.7:280
@@ -349,6 +351,7 @@ https://downcdn[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg2/t64-4.8.2.zip
 https://www[.teleigran.com/%E7%94%B5%E6%8A%A5%E4%B8%AD%E6%96%87.msi
 http://103[.243.180.54/tsetup-x64.4.0.2.msi
 https://downtg[.sa.com/8228849c45e24bdcbe1be0130ad33d92:ad2/t64-4.8.02.zip
+https://tgsdowns[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg11/tg-4.8.5.apk
 
 MD5s:
 
