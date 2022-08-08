@@ -367,6 +367,7 @@ https://tgsdowns[.sa.com/8228849c45e24bdcbe1be0130ad33d92:sg11/tg-4.8.5.apk
 http://telegramgt[.org/Telegram%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://telemgra[.com/Telegram%E4%B8%AD%E6%96%874.0.2.0.msi
 https://telemrag[.com/Telegram%E4%B8%AD%E6%96%87%E7%89%884.0.2.0.msi
+https://cdndown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:111/T64-4.8.8.zip
 
 MD5s:
 
@@ -459,6 +460,7 @@ f40f3ecca2da5c04d6ced1e8c0707cfb
 89c0e5a4020bd6cdb8c47560976bc715
 87ad4f4954a1e642405f9b70fefda0e4
 563d8ffb2e171b0eac79d6e2dfcdf478
+cbe2e5e0f2035902fc60926242affcb4
 
 PDB Paths
 D:\免杀\mai\newDll4\Dll4\Release\Dll4.pdb
