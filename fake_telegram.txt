@@ -213,6 +213,7 @@ telegrammacos[.org
 telegram[.how
 telegram[.cn
 telegranm[.net
+cdndown[.sa.com
 
 IPs:
 118[.99.36.7:280
