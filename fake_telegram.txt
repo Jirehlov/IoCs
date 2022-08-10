@@ -216,6 +216,7 @@ telegranm[.net
 cdndown[.sa.com
 telegramn[.top
 telegramr[.org
+cdntdowns[.sa.com
 
 IPs:
 118[.99.36.7:280
