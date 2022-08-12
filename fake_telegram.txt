@@ -219,7 +219,7 @@ telegramr[.org
 cdntdowns[.sa.com
 downs7[.sa.com
 lovemeb[.com
-
+downs8[.sa.com
 
 IPs:
 118[.99.36.7:280
@@ -378,6 +378,7 @@ https://cdndown[.sa.com/8228849c45e24bdcbe1be0130ad33d92:111/T64-4.8.8.zip
 https://www[.telegramn.top/Telegram.apk
 https://cdntdowns[.sa.com/8228849c45e24bdcbe1be0130ad33d92:ad810/t-4.8.10.2.zip
 https://downs7[.sa.com/8228849c45e24bdcbe1be0130ad33d92:s810/t-4.8.10.1.zip
+https://downs8[.sa.com/8228849c45e24bdcbe1be0130ad33d92:s811/t-4.8.12.1.zip
 
 MD5s:
 
