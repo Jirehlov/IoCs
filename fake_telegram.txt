@@ -223,6 +223,7 @@ downs8[.sa.com
 teleofking[.com
 telegoiran[.com
 telagad[.com
+teleglon[.com
 
 IPs:
 118[.99.36.7:280
@@ -385,6 +386,7 @@ https://downs8[.sa.com/8228849c45e24bdcbe1be0130ad33d92:s811/t-4.8.12.1.zip
 https://teleofking[.com/Tele-CN%E6%B1%89%E5%8C%96.msi
 https://telegoiran[.com/Telegram%E5%AE%98%E7%BD%91.msi
 https://tgdown-1[.oss-cn-hongkong.aliyuncs.com/%E7%94%B5%E6%8A%A5%E4%B8%AD%E6%96%87%E7%89%88x64.7z
+https://teleglon[.com/tsetup-x64.3.7.3.zip
 
 MD5s:
 
