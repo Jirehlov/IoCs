@@ -225,6 +225,7 @@ telegoiran[.com
 telagad[.com
 teleglon[.com
 teleagmr[.com
+telegrea[.com
 
 IPs:
 118[.99.36.7:280
@@ -390,6 +391,7 @@ https://tgdown-1[.oss-cn-hongkong.aliyuncs.com/%E7%94%B5%E6%8A%A5%E4%B8%AD%E6%96
 https://teleglon[.com/tsetup-x64.3.7.3.zip
 https://tg0811[.oss-cn-hongkong.aliyuncs.com/Telegram_CN.4.1.2.0.msi
 https://downs5[.sa.com/8228849c45e24bdcbe1be0130ad33d92:s815/t-4.8.15.1.zip
+https://telegrea[.com/Telegram%E2%80%94x64.4.0.2...msi
 
 MD5s:
 
