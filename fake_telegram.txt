@@ -231,6 +231,9 @@ teledrame[.com
 chat-tg[.vip
 telegname[.com
 teleddona[.com
+yrfhd[.com
+chdyt[.com
+cn-telagrem[.com
 
 IPs:
 118[.99.36.7:280
@@ -403,6 +406,9 @@ https://downs5[.sa.com/8228849c45e24bdcbe1be0130ad33d92:s816/t-4.8.16.4.zip
 https://d2k0j19zclr97o[.cloudfront.net/tsetup-x64.3.3.5.zip
 https://2060120329[.luohuo.net/%E7%94%B5%E6%8A%A5%E4%B8%AD%E6%96%87%E7%89%88x64.7z
 https://telegram-cmx[.oss-cn-hongkong.aliyuncs.com/Telegrem%E4%B8%AD%E6%96%87.msi
+https://yrfhd[.com/telegram.zip
+https://yrfhd[.com/download/telegram8.8.5.apk
+https://cn-telagrem[.com/uc/dotst?n=tlegram-cn.zip
 
 MD5s:
 
