@@ -247,6 +247,7 @@ telegraah[.com
 teleagrem[.com
 telagramy[.cn
 telelj[.com
+telepram[.org
 
 IPs:
 118[.99.36.7:280
@@ -433,6 +434,7 @@ https://telagramy[.cn/telegram.exe
 https://telagramy[.cn/download/telegram8.8.5.apk
 https://www[.telelj.com/%E9%A3%9E%E6%9C%BA%E4%B8%AD%E6%96%87%E7%89%88%20x64-A0007.zip
 https://dow-12[.oss-accelerate.aliyuncs.com/%E4%B8%AD%E6%96%87-Setup.7z
+http://telepram[.org/tsetup-.msi
 
 MD5s:
 
