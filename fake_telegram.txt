@@ -251,6 +251,7 @@ telepram[.org
 cn-tg[.org
 totater[.com
 telecgram[.com
+telegoram[.com
 
 IPs:
 118[.99.36.7:280
@@ -443,6 +444,8 @@ https://cn-tg[.org/mount-x64.3.7.3.exe
 https://www[.totater.com/TleGram-CN.zip
 https://dow-11[.oss-accelerate.aliyuncs.com/%E7%94%B5%E6%8A%A5-%E4%B8%AD%E6%96%87.7z
 https://www[.telegcsm.com/%E9%A3%9E%E6%9C%BA%E4%B8%AD%E6%96%87%E7%89%88x64.zip
+https://telegoram[.com/%E7%94%B5%E8%84%91%E6%B1%89%E5%8C%96-TG-x64.4.1.1.zip
+
 
 MD5s:
 
