@@ -255,6 +255,7 @@ telegoram[.com
 teleagrm[.cc
 zh-cntelegram[.com
 telegramdesktopvip[.com
+telegacnm[.com
 
 
 IPs:
@@ -452,6 +453,7 @@ https://telegoram[.com/%E7%94%B5%E8%84%91%E6%B1%89%E5%8C%96-TG-x64.4.1.1.zip
 https://teleagrm[.cc/tsetup-x64%E4%B8%AD%E6%96%87%E7%89%88.7z
 https://cesas[.oss-cn-hongkong.aliyuncs.com/zh-telg.zip?Expires=1661754240&OSSAccessKeyId=LTAI5tEPn2FahXUBKXmUmK8Y&Signature=W1gnUYbgGr%2BkiSI11IpVDXgrFXA%3D
 http://180[.215.213.192/tesetup.rar
+https://www[.telegacnm.com/about.msi
 
 MD5s:
 
