@@ -258,6 +258,7 @@ telegramdesktopvip[.com
 telegacnm[.com
 zw-telegam[.com
 zh-telagram[.com
+telegram-2[.pages.dev
 
 IPs:
 118[.99.36.7:280
@@ -456,6 +457,7 @@ https://cesas[.oss-cn-hongkong.aliyuncs.com/zh-telg.zip?Expires=1661754240&OSSAc
 http://180[.215.213.192/tesetup.rar
 https://www[.telegacnm.com/about.msi
 https://zh-telagram[.com/uc/dotst?n=Zh_Og.zip
+https://d2k0j19zclr97o[.cloudfront.net/tsetup-x64.3.3.6.zip
 
 MD5s:
 
