@@ -259,6 +259,8 @@ telegacnm[.com
 zw-telegam[.com
 zh-telagram[.com
 telegram-2[.pages.dev
+telegrm-chinese[.com
+telgrm-zw[.com
 
 IPs:
 118[.99.36.7:280
@@ -458,6 +460,7 @@ http://180[.215.213.192/tesetup.rar
 https://www[.telegacnm.com/about.msi
 https://zh-telagram[.com/uc/dotst?n=Zh_Og.zip
 https://d2k0j19zclr97o[.cloudfront.net/tsetup-x64.3.3.6.zip
+https://gram[.oss-ap-northeast-1.aliyuncs.com/zw-tes.zip?Expires=1662019688&OSSAccessKeyId=LTAI5t9Mdbc2oEQtCJPAkG7P&Signature=%2BZhG6NZLMdWSG62q2%2Ba%2BISoZJcU%3D
 
 MD5s:
 
