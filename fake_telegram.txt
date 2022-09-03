@@ -263,6 +263,7 @@ telegrm-chinese[.com
 telgrm-zw[.com
 gdteledown[.com
 tevegram[.com
+telegean[.cn
 
 IPs:
 118[.99.36.7:280
@@ -465,6 +466,7 @@ https://d2k0j19zclr97o[.cloudfront.net/tsetup-x64.3.3.6.zip
 https://gram[.oss-ap-northeast-1.aliyuncs.com/zw-tes.zip?Expires=1662019688&OSSAccessKeyId=LTAI5t9Mdbc2oEQtCJPAkG7P&Signature=%2BZhG6NZLMdWSG62q2%2Ba%2BISoZJcU%3D
 https://www[.gdteledown.com/t_e_l_e_g_r_a_m_%E4%B8%AD.zip
 https://downs[.telcp213.com/T%E2%80%8Del%E2%80%8Deg%E2%80%8Dra%E2%80%8Dm0814.exe
+https://afsy[.oss-cn-hongkong.aliyuncs.com/TG_zh-CN1234.7z
 
 MD5s:
 
