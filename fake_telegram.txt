@@ -269,6 +269,7 @@ teuegram[.com
 telegrema[.net
 telegaam[.xyz
 telegrak[.com
+zh-telegram[.app
 
 IPs:
 118[.99.36.7:280
