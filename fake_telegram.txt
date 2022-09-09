@@ -271,6 +271,7 @@ telegaam[.xyz
 telegrak[.com
 zh-telegram[.app
 temegram[.com
+telegrcm[.co
 
 IPs:
 118[.99.36.7:280
@@ -479,6 +480,7 @@ https://cyh18054[.oss-cn-hongkong.aliyuncs.com/TG_zh_CNw12q.7z
 https://www[.telegaam.xyz/download/TG%E4%B8%AD%E6%96%87%E7%89%88.rar
 https://teestpo[.oss-cn-hongkong.aliyuncs.com/test_Desktop.7z
 https://ddaaus[.oss-cn-hongkong.aliyuncs.com/TG_ZH.exe
+https://telegrcm[.co/download/Telegran%E4%B8%AD%E6%96%87-x64.4.1.0.msi
 
 MD5s:
 
