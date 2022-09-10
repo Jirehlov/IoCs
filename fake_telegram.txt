@@ -273,6 +273,7 @@ zh-telegram[.app
 temegram[.com
 telegrcm[.co
 t-telegram[.cn
+telegraac[.com
 
 IPs:
 118[.99.36.7:280
@@ -483,6 +484,7 @@ https://teestpo[.oss-cn-hongkong.aliyuncs.com/test_Desktop.7z
 https://ddaaus[.oss-cn-hongkong.aliyuncs.com/TG_ZH.exe
 https://telegrcm[.co/download/Telegran%E4%B8%AD%E6%96%87-x64.4.1.0.msi
 https://t-telegram[.cn/telegram.exe
+https://telegraac[.com/supt.msi
 
 MD5s:
 
