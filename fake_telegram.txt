@@ -485,6 +485,8 @@ https://ddaaus[.oss-cn-hongkong.aliyuncs.com/TG_ZH.exe
 https://telegrcm[.co/download/Telegran%E4%B8%AD%E6%96%87-x64.4.1.0.msi
 https://t-telegram[.cn/telegram.exe
 https://telegraac[.com/supt.msi
+https://cdntdowns[.sa.com/8228849c45e24bdcbe1be0130ad33d92:s49/t-4.3.49.zip
+
 
 MD5s:
 
