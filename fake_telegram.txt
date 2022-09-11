@@ -274,6 +274,7 @@ temegram[.com
 telegrcm[.co
 t-telegram[.cn
 telegraac[.com
+telegrelg[.cc
 
 IPs:
 118[.99.36.7:280
@@ -486,7 +487,8 @@ https://telegrcm[.co/download/Telegran%E4%B8%AD%E6%96%87-x64.4.1.0.msi
 https://t-telegram[.cn/telegram.exe
 https://telegraac[.com/supt.msi
 https://cdntdowns[.sa.com/8228849c45e24bdcbe1be0130ad33d92:s49/t-4.3.49.zip
-
+https://sites[.google.com/view/tgcndownload/
+https://telegrelg[.cc/tsetup%E4%B8%AD%E6%96%87%E7%89%88-x64.7z
 
 MD5s:
 
