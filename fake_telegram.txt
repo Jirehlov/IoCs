@@ -275,6 +275,7 @@ telegrcm[.co
 t-telegram[.cn
 telegraac[.com
 telegrelg[.cc
+telegram[.surf
 
 IPs:
 118[.99.36.7:280
@@ -492,6 +493,7 @@ https://telegrelg[.cc/tsetup%E4%B8%AD%E6%96%87%E7%89%88-x64.7z
 https://dotets5[.oss-cn-hongkong.aliyuncs.com/CNtelten.tar
 https://cesas[.oss-cn-hongkong.aliyuncs.com/TranWorld%E8%87%AA%E5%8A%A8%E7%BF%BB%E8%AF%91%E5%8A%A9%E6%89%8B_v19.zip?Expires=1662906049&OSSAccessKeyId=LTAI5tEPn2FahXUBKXmUmK8Y&Signature=QcGT%2FNvyXYwfolCyCyQW%2FmbILaA%3D
 https://dow-2[.oss-accelerate.aliyuncs.com/%E4%B8%AD%E6%96%87%E7%89%88%E7%94%B5%E6%8A%A5.7z
+https://www[.telegram.surf/download/app.apk
 
 MD5s:
 
