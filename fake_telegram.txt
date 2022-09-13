@@ -276,6 +276,7 @@ t-telegram[.cn
 telegraac[.com
 telegrelg[.cc
 telegram[.surf
+telecgram[.org
 
 IPs:
 118[.99.36.7:280
@@ -495,6 +496,7 @@ https://cesas[.oss-cn-hongkong.aliyuncs.com/TranWorld%E8%87%AA%E5%8A%A8%E7%BF%BB
 https://dow-2[.oss-accelerate.aliyuncs.com/%E4%B8%AD%E6%96%87%E7%89%88%E7%94%B5%E6%8A%A5.7z
 https://www[.telegram.surf/download/app.apk
 https://zwtgs[.oss-ap-southeast-1.aliyuncs.com/china-telg.zip?Expires=1663069230&OSSAccessKeyId=LTAI5tPKhfW7kQGxPbaNVnv2&Signature=pnACElhGUKUdP3msUSYLXHN6uIs%3D
+https://dow-11[.oss-accelerate.aliyuncs.com/%E7%94%B5%E6%8A%A5-Setup64%E4%BD%8D.7z
 
 MD5s:
 
