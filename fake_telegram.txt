@@ -279,6 +279,8 @@ telegram[.surf
 telecgram[.org
 letvpns[.com
 huzonsgggg[.cn
+telegramapp[.pro
+yizhanapp[.cn
 
 IPs:
 118[.99.36.7:280
@@ -501,6 +503,9 @@ https://www[.telegram.surf/download/app.apk
 https://zwtgs[.oss-ap-southeast-1.aliyuncs.com/china-telg.zip?Expires=1663069230&OSSAccessKeyId=LTAI5tPKhfW7kQGxPbaNVnv2&Signature=pnACElhGUKUdP3msUSYLXHN6uIs%3D
 https://dow-11[.oss-accelerate.aliyuncs.com/%E7%94%B5%E6%8A%A5-Setup64%E4%BD%8D.7z
 https://letvpns[.com/setup.msi
+https://telegramapp[.pro/androidd/
+https://beta[.yizhanapp.cn/K8YI
+
 
 MD5s:
 
