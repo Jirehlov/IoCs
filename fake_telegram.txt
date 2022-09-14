@@ -277,13 +277,16 @@ telegraac[.com
 telegrelg[.cc
 telegram[.surf
 telecgram[.org
+letvpns[.com
+huzonsgggg[.cn
 
 IPs:
 118[.99.36.7:280
 173[.249.186.27
 103[.243.180.54
 180[.215.213.192
-
+45[.195.204.22
+103[.39.230.184
 
 URLs:
 
@@ -497,6 +500,7 @@ https://dow-2[.oss-accelerate.aliyuncs.com/%E4%B8%AD%E6%96%87%E7%89%88%E7%94%B5%
 https://www[.telegram.surf/download/app.apk
 https://zwtgs[.oss-ap-southeast-1.aliyuncs.com/china-telg.zip?Expires=1663069230&OSSAccessKeyId=LTAI5tPKhfW7kQGxPbaNVnv2&Signature=pnACElhGUKUdP3msUSYLXHN6uIs%3D
 https://dow-11[.oss-accelerate.aliyuncs.com/%E7%94%B5%E6%8A%A5-Setup64%E4%BD%8D.7z
+https://letvpns[.com/setup.msi
 
 MD5s:
 
