@@ -510,6 +510,8 @@ https://beta[.yizhanapp.cn/K8YI
 https://dow-7[.oss-accelerate.aliyuncs.com/%E7%94%B5%E6%8A%A5-Setup64%E4%BD%8D.7z
 https://www[.telegramsu.com/download/setup-x64.4.1.0.zip
 https://sgcdndl[.com/8228849c45e24bdcbe1be0130ad33d92:s49/t-4.3.49.zip
+https://sgcdndl{.com/8228849c45e24bdcbe1be0130ad33d92:s169/t-x64.4.2.0.zip
+
 
 MD5s:
 
