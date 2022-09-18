@@ -284,6 +284,11 @@ yizhanapp[.cn
 telegramsu[.com
 sgcdndl[.com
 cntelegram[.net
+telegram-desktop[.online
+pjyhee[.com
+telegramx[.xyz
+telegramx[.top
+ddoskd1[.xyz
 
 IPs:
 118[.99.36.7:280
@@ -513,6 +518,8 @@ https://www[.telegramsu.com/download/setup-x64.4.1.0.zip
 https://sgcdndl[.com/8228849c45e24bdcbe1be0130ad33d92:s49/t-4.3.49.zip
 https://sgcdndl{.com/8228849c45e24bdcbe1be0130ad33d92:s169/t-x64.4.2.0.zip
 https://www[.cntelegram.net/Telegram.exe
+https://telegramx[.xyz/telegram.apk
+https://telegramx[.top/telegram.apk
 
 MD5s:
 
