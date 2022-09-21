@@ -301,6 +301,7 @@ x-telegram9[.cf
 x-telegram10[.cf
 xtlgram2[.cf
 xtlgram3[.cf
+telegram[.fashion
 
 IPs:
 118[.99.36.7:280
