@@ -302,6 +302,9 @@ x-telegram10[.cf
 xtlgram2[.cf
 xtlgram3[.cf
 telegram[.fashion
+telagrcm[.com
+telegram-24[.com
+telegran[.one
 
 IPs:
 118[.99.36.7:280
@@ -534,6 +537,9 @@ https://www[.cntelegram.net/Telegram.exe
 https://telegramx[.xyz/telegram.apk
 https://telegramx[.top/telegram.apk
 https://www[.telegrarmcn.com/download/setup-x64.4.1.0.zip
+https://telagrcm[.com/uc/dotst?n=zhCN_desktop.zip
+https://zwtgs[.oss-ap-southeast-1.aliyuncs.com/zhCN_desktop.zip?Expires=1663852571&OSSAccessKeyId=LTAI5tPKhfW7kQGxPbaNVnv2&Signature=wdhMTeHrCRmQMED7a5OhUNs4HzQ%3D
+http://telegran[.one/Telegarm-%E4%B8%AD%E6%96%87%E7%89%88.msi
 
 MD5s:
 
