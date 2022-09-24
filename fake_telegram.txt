@@ -305,6 +305,8 @@ telegram[.fashion
 telagrcm[.com
 telegram-24[.com
 telegran[.one
+telegramsolutions[.com
+tg-download-us[.site
 
 IPs:
 118[.99.36.7:280
@@ -541,6 +543,9 @@ https://telagrcm[.com/uc/dotst?n=zhCN_desktop.zip
 https://zwtgs[.oss-ap-southeast-1.aliyuncs.com/zhCN_desktop.zip?Expires=1663852571&OSSAccessKeyId=LTAI5tPKhfW7kQGxPbaNVnv2&Signature=wdhMTeHrCRmQMED7a5OhUNs4HzQ%3D
 http://telegran[.one/Telegarm-%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://sgcdndl[.com/8228849c45e24bdcbe1be0130ad33d92:s920e/t-cnx64.4.9.20.exe
+https://telegramsolutions[.com/dl/tsetup.exe
+https://cdn.discordapp[.com/attachments/1014846779927298063/1023216215990218872/Telegram.zip
+https://pjyhee.com/data/tsetup-x64.4.1.0.exe
 
 MD5s:
 
