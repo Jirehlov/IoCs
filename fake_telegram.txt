@@ -307,6 +307,7 @@ telegram-24[.com
 telegran[.one
 telegramsolutions[.com
 tg-download-us[.site
+teleragam[.com
 
 IPs:
 118[.99.36.7:280
@@ -545,7 +546,8 @@ http://telegran[.one/Telegarm-%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://sgcdndl[.com/8228849c45e24bdcbe1be0130ad33d92:s920e/t-cnx64.4.9.20.exe
 https://telegramsolutions[.com/dl/tsetup.exe
 https://cdn.discordapp[.com/attachments/1014846779927298063/1023216215990218872/Telegram.zip
-
+https://feichina[.oss-cn-hongkong.aliyuncs.com/tsetupChina.msi
+https://feichina[.oss-cn-hongkong.aliyuncs.com/Telegram.apk
 
 MD5s:
 
