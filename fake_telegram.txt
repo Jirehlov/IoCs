@@ -309,6 +309,7 @@ telegramsolutions[.com
 tg-download-us[.site
 teleragam[.com
 tehegiam[.com
+cdndown[.shop
 
 IPs:
 118[.99.36.7:280
@@ -550,6 +551,7 @@ https://cdn.discordapp[.com/attachments/1014846779927298063/1023216215990218872/
 https://feichina[.oss-cn-hongkong.aliyuncs.com/tsetupChina.msi
 https://feichina[.oss-cn-hongkong.aliyuncs.com/Telegram.apk
 https://syzg[.oss-cn-hongkong.aliyuncs.com/tele121nnhd-.7z
+https://cdndown[.shop/8228849c45e24bdcbe1be0130ad33d92:s928z/tcnx46-4.9.28.zip
 
 MD5s:
 
