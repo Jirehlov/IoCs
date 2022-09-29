@@ -312,6 +312,7 @@ tehegiam[.com
 cdndown[.shop
 telegraml[.cn
 desktop-telegram[.link
+telagarm[.com
 
 IPs:
 118[.99.36.7:280
@@ -555,6 +556,7 @@ https://feichina[.oss-cn-hongkong.aliyuncs.com/Telegram.apk
 https://syzg[.oss-cn-hongkong.aliyuncs.com/tele121nnhd-.7z
 https://cdndown[.shop/8228849c45e24bdcbe1be0130ad33d92:s928z/tcnx46-4.9.28.zip
 https://wbdownloads[.oss-accelerate.aliyuncs.com/t_elegram%E4%B8%AD%E6%96%87%E7%89%88-x64-6.msi?Expires=1664362829&OSSAccessKeyId=LTAI5tFKBy8u3ru7t96n4ikw&Signature=PNoC%2BriP%2BIx0UKAgQOWGMOttsmc%3D
+https://biubiubiufastbiubiubiufastbiubiubiufastbiubiubiufasthubs[.oss-accelerate.aliyuncs.com/gram-messager.zip?Expires=1664459058&OSSAccessKeyId=LTAI5t7hhR7vw3va7Bqd1DCU&Signature=ePrctNnDb1mezowmEZsc%2B80IneY%3D
 
 MD5s:
 
