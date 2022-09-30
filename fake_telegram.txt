@@ -313,6 +313,7 @@ cdndown[.shop
 telegraml[.cn
 desktop-telegram[.link
 telagarm[.com
+telegrata[.com
 
 IPs:
 118[.99.36.7:280
