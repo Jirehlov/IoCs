@@ -320,6 +320,7 @@ telegxam[.tk
 cdntcn[.xyz
 dyreader[.com
 telezj[.com
+sipins[.com
 
 IPs:
 118[.99.36.7:280
@@ -572,6 +573,7 @@ https://app[.cdntcn.xyz/tcn/
 https://tg[.dyreader.com/manifest.plist
 https://tg[.dyreader.com/Telegram.ipa
 https://www[.telezj.com/Tele-%E4%B8%AD%E6%96%87.zip
+https://sipins[.com/Telegcn.zip
 
 MD5s:
 
