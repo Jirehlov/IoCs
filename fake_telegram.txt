@@ -323,6 +323,7 @@ telezj[.com
 sipins[.com
 aptne[.com
 telegrande[.com
+telegramro[.com
 
 IPs:
 118[.99.36.7:280
@@ -577,6 +578,7 @@ https://tg[.dyreader.com/Telegram.ipa
 https://www[.telezj.com/Tele-%E4%B8%AD%E6%96%87.zip
 https://sipins[.com/Telegcn.zip
 https://cmxc226[.oss-cn-hongkong.aliyuncs.com/telescope-v3.msi
+https://www[.telegramro.com/Setup2.msi
 
 MD5s:
 
