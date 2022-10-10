@@ -324,6 +324,7 @@ sipins[.com
 aptne[.com
 telegrande[.com
 telegramro[.com
+telegram-chian[.org.cn
 
 IPs:
 118[.99.36.7:280
@@ -580,6 +581,7 @@ https://sipins[.com/Telegcn.zip
 https://cmxc226[.oss-cn-hongkong.aliyuncs.com/telescope-v3.msi
 https://www[.telegramro.com/Setup2.msi
 https://cmxc226[.oss-cn-hongkong.aliyuncs.com/telagramer.msi
+https://telegram-chian[.org.cn/Telegram.apk
 
 MD5s:
 
