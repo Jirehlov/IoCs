@@ -325,6 +325,7 @@ aptne[.com
 telegrande[.com
 telegramro[.com
 telegram-chian[.org.cn
+teledown[.com
 
 IPs:
 118[.99.36.7:280
@@ -582,6 +583,7 @@ https://cmxc226[.oss-cn-hongkong.aliyuncs.com/telescope-v3.msi
 https://www[.telegramro.com/Setup2.msi
 https://cmxc226[.oss-cn-hongkong.aliyuncs.com/telagramer.msi
 https://telegram-chian[.org.cn/Telegram.apk
+https://tlex[.s3.ap-northeast-2.amazonaws.com/Tele-CN%E6%B1%89%E5%8C%96.zip
 
 MD5s:
 
