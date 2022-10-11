@@ -326,6 +326,7 @@ telegrande[.com
 telegramro[.com
 telegram-chian[.org.cn
 teledown[.com
+t-telegrm[.com
 
 IPs:
 118[.99.36.7:280
@@ -584,6 +585,8 @@ https://www[.telegramro.com/Setup2.msi
 https://cmxc226[.oss-cn-hongkong.aliyuncs.com/telagramer.msi
 https://telegram-chian[.org.cn/Telegram.apk
 https://tlex[.s3.ap-northeast-2.amazonaws.com/Tele-CN%E6%B1%89%E5%8C%96.zip
+https://t-telegrm[.com/download/telegram8.8.5.apk
+https://t-telegrm[.com/tsetup-x64-4.2.0_10002.exe
 
 MD5s:
 
