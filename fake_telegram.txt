@@ -332,6 +332,7 @@ telegsam[.org
 telegram[.gs
 teleagram[.net
 telgm-zw[.com
+telegraim[.org
 
 IPs:
 118[.99.36.7:280
@@ -597,6 +598,7 @@ https://telegram[.gs/androidd/Telegram-proxy.apk
 https://tgfffs[.oss-cn-hangzhou.aliyuncs.com/tsetp-%E6%B1%89%E5%8C%96x64.4.2.4.7z
 https://biubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiu[.oss-accelerate.aliyuncs.com/telgm-zw.zip?Expires=1665573385&OSSAccessKeyId=LTAI5tQ7r4ZGznaX5cJHBAZF&Signature=A68tIKQ0rj3JcaGzXxA8x4ImD%2B0%3D
 https://hu-die-sy[.oss-cn-hongkong.aliyuncs.com/tele._ZH.CN_.7z
+http://www[.telegraim.org/Setup2.msi
 
 MD5s:
 
