@@ -334,6 +334,7 @@ teleagram[.net
 telgm-zw[.com
 telegraim[.org
 telegraem[.org
+telegrax[.org
 
 IPs:
 118[.99.36.7:280
@@ -601,6 +602,7 @@ https://biubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiubiu[.oss-acc
 https://hu-die-sy[.oss-cn-hongkong.aliyuncs.com/tele._ZH.CN_.7z
 http://www[.telegraim.org/Setup2.msi
 https://dow-9[.oss-accelerate.aliyuncs.com/%E7%94%B5%E6%8A%A5%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87.7z
+https://telegrac[.oss-cn-hongkong.aliyuncs.com/%E7%BA%B8%E9%A3%9E%E6%9C%BA%E4%B8%AD%E6%96%87%E7%89%88.msi
 
 MD5s:
 
