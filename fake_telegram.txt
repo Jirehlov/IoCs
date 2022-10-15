@@ -333,6 +333,7 @@ telegram[.gs
 teleagram[.net
 telgm-zw[.com
 telegraim[.org
+telegraem[.org
 
 IPs:
 118[.99.36.7:280
