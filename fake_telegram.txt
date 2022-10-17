@@ -338,6 +338,7 @@ telegrax[.org
 tlegrams[.com
 tgdownloader8[.cf
 tgdownloader12[.cf
+telegark[.xyz
 
 IPs:
 118[.99.36.7:280
