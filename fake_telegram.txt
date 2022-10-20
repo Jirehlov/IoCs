@@ -342,6 +342,7 @@ telegark[.xyz
 telegramlk[.org
 op-telegram[.com
 telegram-op[.com
+tejegram[.com
 
 IPs:
 118[.99.36.7:280
@@ -615,6 +616,7 @@ https://xg12355[.oss-cn-hongkong.aliyuncs.com/stup8.63.0%E6%B1%89%E5%8C%96.7z
 https://wf-gits-wf-gits-wf-gits-wf-gits-wf-gits-wf-gits-wf-gits-wf-git[.oss-accelerate.aliyuncs.com/telagarm-p08-x64.zip?Expires=1665900580&OSSAccessKeyId=LTAI5tDM5dxYHX97Jtm5XX5q&Signature=IDNlANtduQdC9D8S5Ctx7rmMKcs%3D
 https://www[.telezj.com/TG%E4%B8%AD%E6%96%87.zip
 https://gutsd[.oss-cn-hongkong.aliyuncs.com/TG/TG_x64_CN.7z
+https://tejegram[.com/m/telegram.apk
 
 MD5s:
 
