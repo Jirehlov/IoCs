@@ -340,6 +340,8 @@ tgdownloader8[.cf
 tgdownloader12[.cf
 telegark[.xyz
 telegramlk[.org
+op-telegram[.com
+telegram-op[.com
 
 IPs:
 118[.99.36.7:280
