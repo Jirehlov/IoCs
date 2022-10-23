@@ -346,6 +346,7 @@ tejegram[.com
 telsgramz[.com
 telegrgrcn[.com
 telegtram[.com
+telegrams[.cloud
 
 IPs:
 118[.99.36.7:280
@@ -622,6 +623,7 @@ https://gutsd[.oss-cn-hongkong.aliyuncs.com/TG/TG_x64_CN.7z
 https://tejegram[.com/m/telegram.apk
 https://www[.telegrgrcn.com/1/TG_cn_1.7.7z
 https://cyh18054[.oss-cn-hongkong.aliyuncs.com/TG-x64-x1-2.msi
+https://telegrams[.cloud/files/Telegram_8.8.5_17.54.apk
 
 MD5s:
 
