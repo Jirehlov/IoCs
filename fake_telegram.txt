@@ -351,6 +351,8 @@ telagarm[.com
 telegraem[.net
 telsgrams[.com
 chinesetelecn[.vip
+vip-tg[.com
+cn-telegarm[.org
 
 IPs:
 118[.99.36.7:280
