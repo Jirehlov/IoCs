@@ -353,6 +353,7 @@ telsgrams[.com
 chinesetelecn[.vip
 vip-tg[.com
 cn-telegarm[.org
+telagarm[.com
 
 IPs:
 118[.99.36.7:280
