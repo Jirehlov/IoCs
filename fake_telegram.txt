@@ -364,8 +364,11 @@ telegrin[.org
 telegramm[.biz
 vip-tg[.org
 telegramm[.wang
+tleggrem[.com
+qnqb5[.cn
 
 IPs:
+
 118[.99.36.7:280
 173[.249.186.27
 103[.243.180.54
@@ -654,6 +657,7 @@ https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T108CH1/tsetup-x64.4.2
 https://cn-tg[.org/TG-x64.4.2.4_New.zip
 https://cdndown[.shop/8228849c45e24bdcbe1be0130ad33d92:s112/tcnx46-4.11.2.zip
 https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T108CH1/tsetup-x64.4.2.0.exe
+https://www[.qnqb5.cn/TG_ZH.msi
 
 MD5s:
 
