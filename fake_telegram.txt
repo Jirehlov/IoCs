@@ -374,6 +374,7 @@ cn-teleglam[.com
 op-telegram[.xyz
 telegramd[.top
 telegaam[.org
+telegram[.com.pe
 
 IPs:
 
@@ -674,6 +675,7 @@ https://cyh18054[.oss-cn-hongkong.aliyuncs.com/TG-x64-ZW-x1.msi
 https://4tewded[.oss-cn-hongkong.aliyuncs.com/TTGx64.zip
 https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T158CH2/tsetup-x64.4.2.0.exe
 http://telegramd[.top/123456.exe
+https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T110CH3/tsetup-x64.4.2.0.exe
 
 MD5s:
 
