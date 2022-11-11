@@ -375,6 +375,7 @@ op-telegram[.xyz
 telegramd[.top
 telegaam[.org
 telegram[.com.pe
+telepanm[.top
 
 IPs:
 
