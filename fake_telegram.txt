@@ -379,6 +379,10 @@ telepanm[.top
 telegramm[.ren
 chip-usa[.com
 telgcn[.com
+cn-telegram[.pro
+telegramm[.ltd
+teolegram[.xyz
+teligrum[.org
 
 IPs:
 
@@ -685,6 +689,10 @@ https://bakdownload[.srdna.com:10073/download_telegramm_ren/bzyl/download_telegr
 https://cdndown[.shop/8228849c45e24bdcbe1be0130ad33d92:s11121/tcnx64-4.11.122.zip
 https://www[.telgcn.com/Telegram.zip
 https://www[.telgcn.com/Telegram.apk
+https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Portable/T108CH1/tportable-x64.4.2.0.zip
+https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T128CH1/tsetup-x64.4.2.0.exe
+https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Portable/T128CH1/tportable-x64.4.2.0.zip
+https://cdn[.discordapp.com/attachments/1039951054260949026/1040370146067361822/AppSetup.zip
 
 MD5s:
 
