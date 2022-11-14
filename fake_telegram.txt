@@ -383,6 +383,9 @@ cn-telegram[.pro
 telegramm[.ltd
 teolegram[.xyz
 teligrum[.org
+teleamcn[.com
+telepram[.com
+telamsa[.com
 
 IPs:
 
@@ -693,6 +696,9 @@ https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Portable/T108CH1/tportable-x64.4.
 https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T128CH1/tsetup-x64.4.2.0.exe
 https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Portable/T128CH1/tportable-x64.4.2.0.zip
 https://cdn[.discordapp.com/attachments/1039951054260949026/1040370146067361822/AppSetup.zip
+https://4tewded[.oss-cn-hongkong.aliyuncs.com/TG-x64-e-h9-706.zip
+https://a3com[.oss-cn-hongkong.aliyuncs.com/TG-x64-e-f2-100.zip
+https://telepram[.com/Telegram%E4%B8%AD%E6%96%87%E7%89%88.exe
 
 MD5s:
 
