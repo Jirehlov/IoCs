@@ -386,6 +386,9 @@ teligrum[.org
 teleamcn[.com
 telepram[.com
 telamsa[.com
+telegram[.org.pe
+china-telegrcm[.com
+teledgam[.online
 
 IPs:
 
@@ -699,6 +702,7 @@ https://cdn[.discordapp.com/attachments/1039951054260949026/1040370146067361822/
 https://4tewded[.oss-cn-hongkong.aliyuncs.com/TG-x64-e-h9-706.zip
 https://a3com[.oss-cn-hongkong.aliyuncs.com/TG-x64-e-f2-100.zip
 https://telepram[.com/Telegram%E4%B8%AD%E6%96%87%E7%89%88.exe
+https://1cd7f61d924ceb19b890b252179c89f0[.oss-accelerate.aliyuncs.com/x64-e-zw-24.zip?Expires=1668511354&OSSAccessKeyId=LTAI5tQ7r4ZGznaX5cJHBAZF&Signature=%2BDaHKtjxJrP30Lyeknf6%2BZ7LxMw%3D
 
 MD5s:
 
