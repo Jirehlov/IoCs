@@ -389,6 +389,7 @@ telamsa[.com
 telegram[.org.pe
 china-telegrcm[.com
 teledgam[.online
+telegrelg[.com
 
 IPs:
 
@@ -704,6 +705,7 @@ https://a3com[.oss-cn-hongkong.aliyuncs.com/TG-x64-e-f2-100.zip
 https://telepram[.com/Telegram%E4%B8%AD%E6%96%87%E7%89%88.exe
 https://1cd7f61d924ceb19b890b252179c89f0[.oss-accelerate.aliyuncs.com/x64-e-zw-24.zip?Expires=1668511354&OSSAccessKeyId=LTAI5tQ7r4ZGznaX5cJHBAZF&Signature=%2BDaHKtjxJrP30Lyeknf6%2BZ7LxMw%3D
 https://cn-tg[.org/TG_x64_New.zip
+https://zh[.telegrelg.com/telegrem.zip
 
 MD5s:
 
