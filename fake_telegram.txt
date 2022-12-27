@@ -440,7 +440,7 @@ tgteleggam[.org
 zhcn-telegram[.club
 telegramzhcn[.org
 telegramzhcn[.com
-
+teiegram-3f[.com
 
 IPs:
 
@@ -792,6 +792,8 @@ https://telegramzzz[.me/download/setup-x64.4.4.1.msi
 https://telegarnm[.com/Telegram%E4%B8%AD%E6%96%87.exe
 https://bohaic[.oss-cn-hongkong.aliyuncs.com/Telegnamx64zuixin.7z
 https://zhcn-telegram[.club/TG-ZHCN-DESKx64.exe
+https://tg4gs4d[.oss-cn-hongkong.aliyuncs.com/vvsh/hhvs.zip
+
 
 MD5s:
 
