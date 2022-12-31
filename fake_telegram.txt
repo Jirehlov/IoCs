@@ -446,6 +446,9 @@ telegcram[.com
 telegremn[.cc
 talagram-zh[.com
 tleamaa[.net
+telergam[.xyz
+tenetgamg[.top
+
 
 IPs:
 
@@ -804,6 +807,7 @@ https://telegremn[.cc/assets/download/TG-Stup.exe
 https://sites[.google.com/view/tg-1115
 https://dows[.kuai-lian.vip/TG_x64.0.1.7.7z
 https://a2net[.oss-cn-hongkong.aliyuncs.com/TG-x64-2-8.zip
+https://telergam[.xyz/TG-ZH x64-e-1.exe
 
 MD5s:
 
