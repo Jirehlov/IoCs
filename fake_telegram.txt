@@ -455,6 +455,7 @@ telegramxco[.com
 telegram[.pe
 telegrbsm[.org
 telegrambo[.org
+telegrcm[.org
 
 IPs:
 
@@ -818,6 +819,7 @@ http://felegram[.lol/Telegarm-%E4%B8%AD%E6%96%87%E7%89%88.msi
 https://telegramxco[.com/download/telegrma.msi
 https://cri-5amnsqb5sb53590h-registry[.oss-accelerate.aliyuncs.com/xiaokou/tsetup-x64.4.2.exe
 https://downs[.telcp213.com/TG_CN.exe
+https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T110CH2/tsetup-x64.4.2.0.exe
 
 MD5s:
 
