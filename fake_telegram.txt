@@ -854,6 +854,7 @@ https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T168CH8/tsetup-x64.4.2
 https://yyds101333[.oss-cn-hongkong.aliyuncs.com/tueopx64.5.9.7z
 https://hmxkoss[.oss-accelerate.aliyuncs.com/tsetup-X64.4.6.msi
 https://dkross[.oss-accelerate.aliyuncs.com/yy/telegram.64.1.9.zip
+http://telegram[.cn/android.apk
 
 MD5s:
 
