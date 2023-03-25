@@ -487,6 +487,8 @@ telegramsz[.net
 tgelegramch[.xyz
 tleamoa[.com
 telegmas[.com
+telegcrams[.com
+telegram-zh[.biz
 
 IPs:
 
@@ -862,6 +864,8 @@ https://tgelegramch[.xyz/setup-X64.6.8.rar
 https://drhhrddtery2[.oss-cn-hongkong.aliyuncs.com/TG-x64-9-8.zip
 https://sites[.google.com/view/tgg013
 https://547b0dd80d80eabda5ec6b9a3c41b1fc[.oss-accelerate.aliyuncs.com/desk-zwx64.6.5.zip?Expires=1679575012&OSSAccessKeyId=LTAI5tNxGQsuH18jbSKkVXbT&Signature=PZDgjbwj%2B4dn1lYrw7JOzQGU6pE%3D
+https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T125CH2/tsetup-x64.4.2.0.exe
+https://96cc20e3b8a5b20e396bdb6db13bf744[.oss-accelerate.aliyuncs.com/ZHD-ZW.4.6.zip?Expires=1679744845&OSSAccessKeyId=LTAI5tNxGQsuH18jbSKkVXbT&Signature=LzyKQC59EiVJDM7BdfLEybWf5s0%3D
 
 MD5s:
 
