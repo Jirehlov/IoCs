@@ -490,6 +490,7 @@ telegmas[.com
 telegcrams[.com
 telegram-zh[.biz
 telegram-zh[.me
+telegram[.training
 
 IPs:
 
