@@ -492,6 +492,7 @@ telegram-zh[.biz
 telegram-zh[.me
 telegram[.training
 tmcdnra[.com
+pr-update[.com
 
 IPs:
 
