@@ -493,6 +493,9 @@ telegram-zh[.me
 telegram[.training
 tmcdnra[.com
 pr-update[.com
+tiliewsa.com
+zh-telegram[.net
+wsxdfrgh[.xyz
 
 IPs:
 
@@ -871,6 +874,8 @@ https://547b0dd80d80eabda5ec6b9a3c41b1fc[.oss-accelerate.aliyuncs.com/desk-zwx64
 https://tgsgp[.oss-accelerate.aliyuncs.com/x64/Installers/T125CH2/tsetup-x64.4.2.0.exe
 https://96cc20e3b8a5b20e396bdb6db13bf744[.oss-accelerate.aliyuncs.com/ZHD-ZW.4.6.zip?Expires=1679744845&OSSAccessKeyId=LTAI5tNxGQsuH18jbSKkVXbT&Signature=LzyKQC59EiVJDM7BdfLEybWf5s0%3D
 https://down[.tmcdnra.com/TG.exe
+https://wsxdfrgh[.xyz/telegram.apk
+https://tiliewsa[.com/known/zh_cn_x64.4.1.2.exe
 
 MD5s:
 
