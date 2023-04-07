@@ -499,6 +499,8 @@ wsxdfrgh[.xyz
 telegram-ua[.net
 telegramzz[.com
 telegran[.cc
+telegram-chinas[.com
+telegramxo[.com
 
 IPs:
 
@@ -882,6 +884,7 @@ https://tiliewsa[.com/known/zh_cn_x64.4.1.2.exe
 https://hmxkoss[.oss-accelerate.aliyuncs.com/setup-X64.4.8.8.exe
 https://telegramv9[.oss-accelerate.aliyuncs.com/telegram.apk
 https://telegramv9[.oss-accelerate.aliyuncs.com/Telegram.exe
+https://down[.telegramxo.com/TG.exe
 
 MD5s:
 
