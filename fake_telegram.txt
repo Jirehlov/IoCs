@@ -502,6 +502,7 @@ telegran[.cc
 telegram-chinas[.com
 telegramxo[.com
 telergem[.org
+telegramtw[.com
 
 IPs:
 
@@ -888,6 +889,7 @@ https://telegramv9[.oss-accelerate.aliyuncs.com/Telegram.exe
 https://down[.telegramxo.com/TG.exe
 https://teleddn[.oss-cn-hongkong.aliyuncs.com/tsetup.exe
 https://telegenm[.oss-cn-hongkong.aliyuncs.com/telegram.apk
+https://desktop[.telegramtw.com/up-tset-x64.3.9.5.exe
 
 MD5s:
 
