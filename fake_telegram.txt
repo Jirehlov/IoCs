@@ -503,6 +503,8 @@ telegram-chinas[.com
 telegramxo[.com
 telergem[.org
 telegramtw[.com
+telegerna[.net
+zhlatrst-tgleg40[.xyz
 
 IPs:
 
@@ -890,6 +892,9 @@ https://down[.telegramxo.com/TG.exe
 https://teleddn[.oss-cn-hongkong.aliyuncs.com/tsetup.exe
 https://telegenm[.oss-cn-hongkong.aliyuncs.com/telegram.apk
 https://desktop[.telegramtw.com/up-tset-x64.3.9.5.exe
+https://zhlatrst-tgleg40[.xyz/down/TG-ZH%20x64-9.msi
+https://www.telegerna[.net/download/Telegram.apk
+https://www.telegerna[.net/download/Telegram_Win.zip
 
 MD5s:
 
