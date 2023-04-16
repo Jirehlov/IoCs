@@ -505,6 +505,9 @@ telergem[.org
 telegramtw[.com
 telegerna[.net
 zhlatrst-tgleg40[.xyz
+tele-gtam[.com
+tele-gram[.bit.ai
+telegramrou[.com
 
 IPs:
 
@@ -895,6 +898,9 @@ https://desktop[.telegramtw.com/up-tset-x64.3.9.5.exe
 https://zhlatrst-tgleg40[.xyz/down/TG-ZH%20x64-9.msi
 https://www.telegerna[.net/download/Telegram.apk
 https://www.telegerna[.net/download/Telegram_Win.zip
+https://ttel[.oss-cn-hongkong.aliyuncs.com/Telegram_Win.7z
+https://w[.kuai-lian.vip/TG_X64.7z
+https://www[.telegramrou.com/TGx64.5.3.msi
 
 MD5s:
 
