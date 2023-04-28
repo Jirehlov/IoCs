@@ -516,6 +516,9 @@ hongkong-telegram[.com
 teletamgcx[.shop
 telegraen-cn[.xyz
 telegramcg[.com
+telegriam[.com
+telegramcn[.mobi
+kydohogd[.xyz
 
 IPs:
 
@@ -915,6 +918,8 @@ https://mbhapp[.oss-cn-hongkong.aliyuncs.com/Telegram.apk
 https://dows3[.kuai-lian.vip/TG_x64_CN.7z
 https://teicn[.oss-cn-hongkong.aliyuncs.com/teicarmx64.7z
 http://telegramcg[.com/Telegran-x64.4.7.1.msi
+https://telegramcn[.mobi/wp-content/uploads/2021/10/tginst.msi
+https://www[.kydohogd.xyz/telegram.apk
 
 MD5s:
 
