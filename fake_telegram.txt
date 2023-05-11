@@ -520,6 +520,7 @@ telegriam[.com
 telegramcn[.mobi
 kydohogd[.xyz
 teleglam-zz[.com
+toppcexc[.com
 
 IPs:
 
@@ -922,6 +923,7 @@ http://telegramcg[.com/Telegran-x64.4.7.1.msi
 https://telegramcn[.mobi/wp-content/uploads/2021/10/tginst.msi
 https://www[.kydohogd.xyz/telegram.apk
 https://tg-111111[.oss-cn-hangzhou.aliyuncs.com/tsetup-x64.4.2.0.msi
+https://tele2[.oss-cn-hongkong.aliyuncs.com/%E4%B8%AD%E6%96%87%E7%94%B5%E6%8A%A5x64.zip
 
 MD5s:
 
