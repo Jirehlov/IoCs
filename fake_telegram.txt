@@ -540,6 +540,8 @@ cntelegram[.cc
 tgdownload[.ml
 telegraem[.vip
 telegram-apk[.org
+tg-zh-cn[.com
+telegrcemi[.club
 
 IPs:
 
@@ -958,6 +960,8 @@ https://cntelegram[.cc/download/telegramCNMix_8923.apk
 https://www[.tgdownload.ml/tsetup.4.7.1.exe
 https://wqswas[.oss-cn-hongkong.aliyuncs.com/testup-cnfiles.7z
 https://telegram-apk[.org/Telegram.apk
+https://tg-zh-cn[.com/static/upload/TG-zhcn2.rar
+https://telegrcemi[.club/tsetup-x.msi
 
 MD5s:
 
