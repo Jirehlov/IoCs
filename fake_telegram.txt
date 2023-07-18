@@ -542,6 +542,10 @@ telegraem[.vip
 telegram-apk[.org
 tg-zh-cn[.com
 telegrcemi[.club
+telegcm[.com
+telegrcn[.org
+tgramarn[.com
+rtgvbny[.xyz
 
 IPs:
 
@@ -963,6 +967,8 @@ https://telegram-apk[.org/Telegram.apk
 https://tg-zh-cn[.com/static/upload/TG-zhcn2.rar
 https://telegrcemi[.club/tsetup-x.msi
 https://00071555swww365[.oss-cn-hongkong.aliyuncs.com/files-tupsx64.8.5.7z
+https://cdfa97bbc992500a43dfa0e301bb5831.oss-accelerate.aliyuncs.com/41a14a1f.zip
+https://download2[.rtgvbny.xyz/telegram.apk
 
 MD5s:
 
